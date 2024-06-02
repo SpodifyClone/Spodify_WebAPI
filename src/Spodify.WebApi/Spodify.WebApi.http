@@ -1,0 +1,6 @@
+@Spodify.WebApi_HostAddress = http://localhost:5229
+
+GET {{Spodify.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
